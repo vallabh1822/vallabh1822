@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vallabh1822
-- 👀 I’m interested in ML, Data Science, Business Intelligence
-- 🌱 I’m currently learning Business Intelligence
-
+- 👀 I’m interested in Data Workflows and AI
+- 
+- 🌱 I’m currently working as Data Engineer
 
 <!---
 vallabh1822/vallabh1822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
